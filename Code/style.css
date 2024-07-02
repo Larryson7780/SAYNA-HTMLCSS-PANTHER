@@ -1,3 +1,16 @@
 body {
     background-image: url("../All page/arrière_plan.png");
 }
+
+.menu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    list-style-type: none;
+    gap: 50px;
+}
+
+.navigation_bar {
+    padding: 20px;
+}
