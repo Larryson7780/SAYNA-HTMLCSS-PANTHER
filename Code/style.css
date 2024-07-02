@@ -14,3 +14,11 @@ body {
 .navigation_bar {
     padding: 20px;
 }
+
+.image_header img{
+    width: 570px;
+}
+
+.text_header {
+    padding-left: 50px;
+}
