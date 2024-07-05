@@ -1,5 +1,6 @@
 body {
     background-image: url("../All page/arrière_plan.png");
+    width: 1580px;
 }
 
 .menu {
@@ -21,4 +22,34 @@ body {
 
 .text_header {
     padding-left: 50px;
+}
+
+.grandeImage {
+    float: left;
+    padding-left: 280px;
+}
+
+.bar_text_image {
+    display: flex;
+}
+
+.espacement {
+    height: 150px;
+}
+
+.bar_image {
+    height: 180px;
+}
+
+.bar_text {
+    text-align: justify;
+    padding: 20px;
+    color: white;
+}
+
+.formulaire {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
