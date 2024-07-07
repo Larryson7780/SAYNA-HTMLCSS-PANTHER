@@ -56,6 +56,32 @@ body {
     background-image: url("../Accueil/Pantherhome7.png");
     height: 1077px;
     width: 1920px;
+    color: black;
+}
+
+.formulaire input:not(input[type=submit]) {
+    margin: 20px 0;
+    border-radius: 38px;
+}
+
+.formulaire p:nth-of-type(2){
+    font-size: 37px;
+}
+
+.formulaire input[type=text], .formulaire input[type=email] {
+    width: 520px;
+    height: 56px;
+}
+
+.formulaire form input:last-of-type {
+    height: 100px;
+}
+
+.formulaire input[type=submit] {
+    width: 174px;
+    height: 54px;
+    border-radius: 38px;
+    background-color: #F2CEF2;
 }
 
 footer {
