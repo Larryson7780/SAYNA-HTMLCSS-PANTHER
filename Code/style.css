@@ -57,6 +57,8 @@ body {
 
 footer {
     background-image: url("../All page/back_footer.png");
+    width: 1920px;
+    height: 287px;
 }
 
 .image_footer1 img {
