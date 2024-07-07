@@ -53,6 +53,9 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    background-image: url("../Accueil/Pantherhome7.png");
+    height: 1077px;
+    width: 1920px;
 }
 
 footer {
