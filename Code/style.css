@@ -98,3 +98,33 @@ footer {
 .espacement_footer_droite {
     height: 50px;
 }
+
+.rectangle_en_bas_image {
+    border: 1px white solid;
+    border-radius: 20px;
+    width: 510px;
+    height: 500px;
+    padding: 55px;
+    background-color: white;
+}
+
+.bouton_lateral_droite {
+    display: flex;
+    gap: 20px;
+}
+
+.positionnement {
+    position: relative;
+    top: 200px;
+}
+
+.partie_droite {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.partie_droite {
+    padding-left: 450px;
+}
