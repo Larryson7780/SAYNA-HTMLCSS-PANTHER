@@ -96,6 +96,11 @@ footer {
     color: white;
 }
 
+.text_footer p:first-of-type {
+    font-size: 22px;
+    text-transform: uppercase;
+}
+
 .espacement_footer_gauche {
     height: 12px;
 }
@@ -118,6 +123,12 @@ footer {
     gap: 20px;
 }
 
+.bouton_lateral_droite button {
+    background-color: #3D2DA6;
+    border-radius: 10px;
+    color: white;
+}
+
 .positionnement {
     position: relative;
     top: 200px;
@@ -132,4 +143,8 @@ footer {
 
 .partie_droite {
     padding-left: 450px;
+}
+
+address span {
+    font-weight: bold;
 }
