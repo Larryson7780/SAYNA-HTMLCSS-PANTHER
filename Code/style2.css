@@ -1,5 +1,25 @@
-.image_lateral-droite {
-    background-image: url("../Wakanda/Pantherwakanda2-1.png");
-    width: auto;
-    height: 363px;
+.image_lateral_droite {
+    width: 460px;
+    height: auto;
+}
+
+.bgi_header {
+    background-image: url("/home/yrral/Documents/Ressource Sayna/Wakanda/Pantherwakanda1.png");
+    background-size: cover;
+    height: 847px;
+    z-index: 1;
+}
+
+.positionnement_text_header_wakanda {
+    position: relative;
+    top: 190px;
+}
+
+.youtube_video {
+    width: 460px;
+}
+
+.bgi_main {
+    background-image: url("../Wakanda/Pantherwakanda2.png");
+    background-repeat: no-repeat;
 }
