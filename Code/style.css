@@ -178,3 +178,23 @@ footer {
 address span {
     font-weight: bold;
 }
+
+@font-face {
+    font-family: panthera;
+    src: url("../Polices/panthera.otf");
+}
+
+@font-face {
+    font-family: BEYNO;
+    src: url("../Polices/BEYNO.ttf");
+}
+
+h1 {
+    font-family: panthera, serif;
+    font-size: 68px;
+}
+
+h2 {
+    font-family: BEYNO, serif;
+    font-size: 32px;
+}

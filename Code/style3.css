@@ -54,3 +54,13 @@ form input[type=submit]{
     background-color: #F2CEF2;
 }
 
+@font-face {
+    font-family: "wakanda f";
+    src: url("../Polices/wakanda-forever-regular.ttf");
+}
+
+h2 {
+    font-family: panthera, serif;
+    font-size: 68px;
+}
+
